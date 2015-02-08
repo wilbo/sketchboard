@@ -1,0 +1,41 @@
+body {
+  background-color: #555;
+}
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.container {
+  display: inline-block;
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+button {
+  float: left; 
+  width: 32.7%;
+  margin-top: 30px; 
+  margin-right: 0.5%;
+  padding: 10px 20px 7px;
+  border-radius: 3px;
+  background-color: #555;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.block {
+  float: left;
+  margin: 1px;
+  border-radius: 2px;
+  background-color: rgba(255,255,255,0.05);
+}
+
+.row {
+  clear: both;
+}
+
+.block-lit {
+  background-color: #aaa !important;
+}
